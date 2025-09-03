@@ -1,0 +1,11 @@
+recipe_id,name,ingredients,cuisine,prep_time_minutes
+1,Spaghetti Carbonara,"pasta, eggs, pancetta, Parmesan cheese, black pepper",Italian,20
+2,Chicken Tikka Masala,"chicken, yogurt, ginger, garlic, tomatoes, garam masala, cream",Indian,45
+3,Caesar Salad,"romaine lettuce, croutons, Parmesan cheese, Caesar dressing",American,15
+4,Vegetable Stir-Fry,"broccoli, carrots, bell peppers, soy sauce, ginger, garlic, tofu",Asian,25
+5,Margherita Pizza,"pizza dough, tomato sauce, mozzarella cheese, basil",Italian,30
+6,Lentil Soup,"lentils, carrots, celery, onion, vegetable broth, herbs",Mediterranean,50
+7,Beef Tacos,"ground beef, tortillas, lettuce, tomatoes, cheese, salsa",Mexican,30
+8,Sushi Rolls,"rice, nori, fish, avocado, cucumber, soy sauce",Japanese,40
+9,Chocolate Cake,"flour, sugar, cocoa powder, eggs, milk, butter",Dessert,60
+10,Falafel Wrap,"falafel, pita bread, hummus, lettuce, tomatoes, tahini sauce",Middle Eastern,20
